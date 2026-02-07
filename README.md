@@ -71,6 +71,4 @@ Developed by Jaanvi Chouhan
 - 🔗 [GitHub](https://github.com/Jaanvichouhan34)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
 - 📸 [Instagram](https://www.instagram.com/jaanvi_chouhan18)
-   ```bash
-   git clone [https://github.com/Jaanvichouhan34/Expense_tracker.git](https://github.com/Jaanvichouhan34/Expense_tracker.git)
-   cd Expense_tracker
+
