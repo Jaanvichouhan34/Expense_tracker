@@ -66,7 +66,7 @@ The backend is built on **PostgreSQL** via Supabase. The `expenses` table is str
 
 ## 📬 Contact
 
-Developed by Jaanvi Chouhan//////
+Developed by Jaanvi Chouhan
 
 - 🔗 [GitHub](https://github.com/Jaanvichouhan34)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaanvi-chouhan-b83158313)
